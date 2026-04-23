@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://wmremove-transformed.jpg" width="150" alt="Abdo Logo" />
+  <img src="https://files.catbox.moe/p9p33m.jpg" width="180" alt="Abdo Logo" />
 </div>
 
 <img align="right" src="https://media.tenor.com/Z_Ah8rkdZ4YAAAAM/walking-code.gif" width="250" />
@@ -13,17 +13,17 @@
 ### 🛠️ Core Competencies & Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Automation-orange?style=for-the-badge&logo=lightning" />
-  <img src="https://img.shields.io/badge/Prompt_Eng-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/AI_Automation-orange?style=for-the-badge&logo=lightning" alt="AI Automation" />
+  <img src="https://img.shields.io/badge/Prompt_Eng-ff69b4?style=for-the-badge" alt="Prompt Engineering" />
 </p>
 
 ---
