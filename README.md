@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://h.top4top.io/p_37654ubqu1.png" width="180" alt="Abdo Logo" />
+  <img src="https://h.top4top.io/p_37654ubqu1.png" width="100%" style="max-width: 800px; border-radius: 10px;" alt="Abdo Logo Banner" />
 </div>
 
-<img align="right" src="https://media.tenor.com/Z_Ah8rkdZ4YAAAAM/walking-code.gif" width="250" />
+<img align="right" src="https://media.tenor.com/Z_Ah8rkdZ4YAAAAM/walking-code.gif" width="220" />
 
 ### 🚀 Full-Stack Developer & AI Automation Specialist
 *Building intelligent agents and scalable web architectures.*
@@ -13,17 +13,17 @@
 ### 🛠️ Core Competencies & Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/AI_Automation-orange?style=for-the-badge&logo=lightning" alt="AI Automation" />
-  <img src="https://img.shields.io/badge/Prompt_Eng-ff69b4?style=for-the-badge" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Automation-orange?style=for-the-badge&logo=lightning" />
+  <img src="https://img.shields.io/badge/Prompt_Eng-ff69b4?style=for-the-badge" />
 </p>
 
 ---
