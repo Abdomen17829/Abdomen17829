@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/p9p33m/wmremove-transformed.jpg" width="180" alt="Abdo Logo" />
+  <img src="https://h.top4top.io/p_37654ubqu1.png" width="180" alt="Abdo Logo" />
 </div>
 
 <img align="right" src="https://media.tenor.com/Z_Ah8rkdZ4YAAAAM/walking-code.gif" width="250" />
