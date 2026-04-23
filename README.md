@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Abdulrahman Ismail (Abdo)
 
-<!--
-**Abdomen17829/Abdomen17829** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Full-Stack Developer | AI Automation & Prompt Engineering Specialist
+Building scalable web apps and intelligent agents.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const abdo = {
+  name: "Abdulrahman Ismail",
+  personality: "ISTP",
+  role: "Full-Stack Developer",
+  focus: ["AI Automation", "Prompt Engineering", "Scalable Web Apps"],
+  languages: ["Python", "JavaScript", "Next.js", "React", "Node.js"],
+  tools: ["Blender", "Photoshop", "VS Code"],
+  currentProjects: {
+    ai: "techmade ai (Collaborative Partner Project)",
+    gaming: "Gamzawy (Gaming News & Streaming Platform)"
+  },
+  funFact: "I prefer open-world stealth games but hate first-person perspective!"
+};
