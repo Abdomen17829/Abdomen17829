@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9pZ3p0Z3R4bm9pZ3p0Z3R4bm9pZ3p0Z3R4bm9pZ3p0Z3R4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZ2Vudm9jYmwmY3Q9cw/WulG4XPl1H4vXlF3zE/giphy.gif" width="35"> **Abdulrahman Ismail**
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" />
+<img align="right" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" width="220" />
 
 ### 🚀 Full-Stack Developer & AI Automation Specialist
 *Building intelligent agents and scalable web architectures.*
