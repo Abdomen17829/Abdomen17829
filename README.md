@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9pZ3p0Z3R4bm9pZ3p0Z3R4bm9pZ3p0Z3R4bm9pZ3p0Z3R4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZ2Vudm9jYmwmY3Q9cw/WulG4XPl1H4vXlF3zE/giphy.gif" width="40" />
-  <h1>Abdulrahman Ismail</h1>
-</div>
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9pZ3p0Z3R4bm9pZ3p0Z3R4bm9pZ3p0Z3R4bm9pZ3p0Z3R4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZ2Vudm9jYmwmY3Q9cw/WulG4XPl1H4vXlF3zE/giphy.gif" width="35"> Abdulrahman Ismail
 
 ---
 
@@ -24,12 +21,12 @@
       
       <h4>📂 Current Projects</h4>
       <ul>
-        <li><b>Gamzawy:</b> Gaming & Streaming Platform.</li>
-        <li><b>TechMade AI:</b> AI Automation Systems.</li>
+        <li><b>Gamzawy:</b> Gaming & Streaming Platform</li>
+        <li><b>TechMade AI:</b> AI Automation Systems</li>
       </ul>
     </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnJueHdzNThmcnR0ZndueGZqbm53eGZqbm53eGZqbm53JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZ2Vudm9jYmwmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+    <td width="35%" align="right" valign="middle">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueG56eG56eG56eG56eG56eG56eG56eG56eG56eG56JmVwPXYxX2dpZnNfsearch&ct=g/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" />
     </td>
   </tr>
 </table>
@@ -37,11 +34,9 @@
 ---
 
 <div align="center">
-  <h3>📊 GitHub Universe</h3>
+  <h3>📊 GitHub Insights</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=Abdomen17829&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdomen17829&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdomen17829&theme=tokyonight&hide_border=true" width="97%" />
 </div>
 
 ---
@@ -51,9 +46,4 @@
   <a href="https://wa.me/201066739257"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="mailto:abdo138email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://abdodevweb.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
-</div>
-
----
-<div align="center">
-  <em>“Build agents, skip the busywork, and enjoy the game.”</em> 🎮
 </div>
