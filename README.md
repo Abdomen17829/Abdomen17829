@@ -19,10 +19,6 @@
 ![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-blueviolet?style=for-the-badge&logo=lightning)
 ![Automation](https://img.shields.io/badge/AI-Automation-orange?style=for-the-badge)
 
-#### 🎨 Design & 3D
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-
 ---
 
 ### 📂 Current Focus & Projects
