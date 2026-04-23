@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Abdomen17829/Abdomen17829/main/wmremove-transformed.jpg" width="180" alt="Abdo Logo" onerror="this.src='https://i.ibb.co/p9p33m/wmremove-transformed.jpg'"/>
+  <img src="https://i.ibb.co/p9p33m/wmremove-transformed.jpg" width="180" alt="Abdo Logo" />
 </div>
 
 <img align="right" src="https://media.tenor.com/Z_Ah8rkdZ4YAAAAM/walking-code.gif" width="250" />
